@@ -6,4 +6,5 @@
 [チャプタ7まで](https://github.com/KeisukeKudo/PythonTestProject)  
 2017/11/15 チャプタ8まで了  
 ※削除機能の説明が不足していて未実装  
-時間が勿体無いので次へ
+時間が勿体無いので次へ  
+[チャプタ10](https://github.com/KeisukeKudo/PythonTestProject3)  
